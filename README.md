@@ -10,7 +10,10 @@ sudo pacman -S rust cargo rustc
 ```fish
 # clone this repository
 git clone https://github.com/type1arc/wifyyy && cd wifyyy
+```
 
+### usage
+```fish
 # build and run the program
 cargo build && cargo run -- --count n
 # replace n with any integer
