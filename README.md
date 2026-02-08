@@ -13,7 +13,7 @@ sudo pacman -S rust cargo rustc
 
 ```fish
 # clone this repository
-git clone https://github.com/type1arc/wifyyy && cd wifyyy
+git clone https://github.com/type1arc/purrito && cd purrito
 ```
 
 ### usage
