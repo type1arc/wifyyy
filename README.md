@@ -1,6 +1,10 @@
 # Purrito
-A CLI program written in Rust which fetches N number of waifu images, saves them to disk and displays them in the terminal.
+A CLI program written in Rust which fetches N number of waifu images, saves them to disk and displays them in the terminal using chafa.
 
+### install dependencies
+```fish
+sudo pacman -S chafa
+```
 ### installation
 ```fish
 #install rust
